@@ -6,7 +6,7 @@
   "author": "Etheryte <karl.tarvas@suse.com>",
   "private": true,
   "scripts": {
-    "dev": "ts-node index.ts"
+    "find": "ts-node index.ts"
   },
   "dependencies": {
     "octokit": "^3.0.0",
