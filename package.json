@@ -4,7 +4,6 @@
   "main": "index.ts",
   "repository": "git@github.com:Etheryte/uyuni-prs.git",
   "author": "Etheryte <karl.tarvas@suse.com>",
-  "private": true,
   "scripts": {
     "find": "ts-node index.ts"
   },
